@@ -2,7 +2,7 @@ package StairsUp;
 
 import java.util.Scanner;
 
-public class Main {
+public class StairsUp {
  
 	static Integer dp[];
 	static int arr[];
